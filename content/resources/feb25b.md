@@ -1,0 +1,10 @@
+---
+content_type: resource
+description: Chapter excerpted from the course notes on proportional reasoning, animal
+  jump heights, and power limits.
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/a1496c1d0b05719a40f16a9a0d0eafc8_feb25b.pdf
+file_type: application/pdf
+resourcetype: Document
+title: Jump Heights
+uid: a1496c1d-0b05-719a-40f1-6a9a0d0eafc8
+---
