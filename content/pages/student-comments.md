@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Student Comments
 uid: d6f2744a-e472-63a3-7e53-36927577c369
 ---

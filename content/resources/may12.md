@@ -2,8 +2,13 @@
 content_type: resource
 description: Chapter excerpted from the course notes on springs, waves, discretization,
   and dimensional analysis.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/11e456f73981540d794a69acfdf33c84_may12.pdf
+file: /media/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/11e456f73981540d794a69acfdf33c84_may12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Springs
 uid: 11e456f7-3981-540d-794a-69acfdf33c84

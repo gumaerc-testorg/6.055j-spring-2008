@@ -2,8 +2,13 @@
 content_type: resource
 description: Chapter excerpted from the course notes on a model for guessing in order
   to explain how divide-and-conquer reasoning can make estimates more accurate.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/baff34a4d01de424432f837d9f290037_feb13.pdf
+file: /media/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/baff34a4d01de424432f837d9f290037_feb13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Random Walks
 uid: baff34a4-d01d-e424-432f-837d9f290037
