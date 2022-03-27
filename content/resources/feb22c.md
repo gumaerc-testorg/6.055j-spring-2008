@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 93972cdc-5ccd-7b9a-8839-db7ed3c37011
 resourcetype: Document
 title: Mountain Heights
 uid: efacf556-e8a3-1ed1-2448-91aa6f89bc98

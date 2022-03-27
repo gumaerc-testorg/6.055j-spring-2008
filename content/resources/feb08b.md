@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 93972cdc-5ccd-7b9a-8839-db7ed3c37011
 resourcetype: Document
 title: Oil Imports
 uid: f92593a8-3178-04c3-8ec4-bfd9cbc28d21

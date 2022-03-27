@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 93972cdc-5ccd-7b9a-8839-db7ed3c37011
 resourcetype: Document
 title: Divide and Conquer
 uid: 2a63bb8d-515e-cce9-e88f-4fef1a8cd5ff

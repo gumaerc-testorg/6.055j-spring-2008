@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 93972cdc-5ccd-7b9a-8839-db7ed3c37011
 resourcetype: Document
 title: Special Cases
 uid: 0f45d6ab-e1f7-159c-9e11-790b0d637f45

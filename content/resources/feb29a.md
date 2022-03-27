@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 93972cdc-5ccd-7b9a-8839-db7ed3c37011
 resourcetype: Document
 title: Symmetry
 uid: a6dd11c6-f761-36af-2485-b122ed1c62b8

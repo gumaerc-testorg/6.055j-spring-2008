@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 93972cdc-5ccd-7b9a-8839-db7ed3c37011
 resourcetype: Document
 title: Approximating Logarithms Using Musical Intervals
 uid: 0c8fb911-d00b-c6c9-6a59-8f7a113e0f47
