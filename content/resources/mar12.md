@@ -2,10 +2,11 @@
 content_type: resource
 description: Chapter excerpted from the course notes on box models, conservation,
   and the conservation cube.
-file: /media/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/ae2e39d1a66d474d0bb537f8c4c3bdcf_mar12.pdf
+file: /courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/ae2e39d1a66d474d0bb537f8c4c3bdcf_mar12.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,3 +15,4 @@ resourcetype: Document
 title: Box Models and Conservation
 uid: ae2e39d1-a66d-474d-0bb5-37f8c4c3bdcf
 ---
+Chapter excerpted from the course notes on box models, conservation, and the conservation cube.
