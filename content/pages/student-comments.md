@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section presents students' comments about course content and teaching
+  style and their reasons for taking the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Student Comments
