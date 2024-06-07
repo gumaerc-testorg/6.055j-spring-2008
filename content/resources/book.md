@@ -3,6 +3,7 @@ content_type: resource
 description: Full text of the manuscript for the course notes on the art of approximation
   in science and engineering.
 file: /courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/311773ba1f658167d87a65f7cd05c045_book.pdf
+file_size: 1234296
 file_type: application/pdf
 learning_resource_types:
 - Readings

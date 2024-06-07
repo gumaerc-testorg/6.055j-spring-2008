@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to a problem set.
 file: /courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/a26ff5e638281de15f60e075b2748c09_sol06.pdf
+file_size: 316472
 file_type: application/pdf
 learning_resource_types:
 - Assignments
