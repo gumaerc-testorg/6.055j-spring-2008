@@ -2,6 +2,7 @@
 content_type: resource
 description: Chapter excerpted from the course notes on divide-and-conquer reasoning.
 file: /courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/2a63bb8d515ecce9e88f4fef1a8cd5ff_feb06b.pdf
+file_size: 135139
 file_type: application/pdf
 learning_resource_types:
 - Readings
