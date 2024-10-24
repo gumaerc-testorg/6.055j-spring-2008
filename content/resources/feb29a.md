@@ -2,7 +2,7 @@
 content_type: resource
 description: The third part of the manuscript for the course notes on symmetry, calculus,
   maximizing a quadratic, and graphical symmetry.
-file: /courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/a6dd11c6f76136af2485b122ed1c62b8_feb29a.pdf
+file: /ol-ocw-studio-app/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/a6dd11c6f76136af2485b122ed1c62b8_feb29a.pdf
 file_size: 236373
 file_type: application/pdf
 learning_resource_types:
