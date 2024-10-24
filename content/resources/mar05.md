@@ -2,7 +2,7 @@
 content_type: resource
 description: Chapter excerpted from the course notes on proportional reasoning, the
   effects of drag on cycling, swimming, and flying, and analysis of algorithms.
-file: /courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/e9fadf9d61173408d2d41263c918490f_mar05.pdf
+file: /ol-ocw-studio-app/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/e9fadf9d61173408d2d41263c918490f_mar05.pdf
 file_size: 307014
 file_type: application/pdf
 learning_resource_types:

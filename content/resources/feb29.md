@@ -2,7 +2,7 @@
 content_type: resource
 description: Chapter excerpted from the course notes on drag, falling cones, and effect
   of drag on fleas jumping.
-file: /courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/68813fd11b8a965e161def70e0ec5604_feb29.pdf
+file: /ol-ocw-studio-app/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/68813fd11b8a965e161def70e0ec5604_feb29.pdf
 file_size: 288015
 file_type: application/pdf
 learning_resource_types:
