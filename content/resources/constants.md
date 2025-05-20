@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on constants for back-of-the-envelope calculations.
-file: /ol-ocw-studio-app/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/d70f08f617960f2ff4060e9e93b91283_constants.pdf
+file: /courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/d70f08f617960f2ff4060e9e93b91283_constants.pdf
 file_size: 149530
 file_type: application/pdf
 learning_resource_types:
