@@ -2,7 +2,7 @@
 content_type: resource
 description: Chapter excerpted from the course notes on pyramid volume, mechanics,
   and the Atwood machine.
-file: /ol-ocw-studio-app/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/0f45d6abe1f7159c9e11790b0d637f45_apr25a.pdf
+file: /courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/0f45d6abe1f7159c9e11790b0d637f45_apr25a.pdf
 file_size: 277451
 file_type: application/pdf
 learning_resource_types:

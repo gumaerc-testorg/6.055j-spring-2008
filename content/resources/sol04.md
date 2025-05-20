@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set.
-file: /ol-ocw-studio-app/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/49ef4e4315b10aebc0db742633156021_sol04.pdf
+file: /courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/49ef4e4315b10aebc0db742633156021_sol04.pdf
 file_size: 240654
 file_type: application/pdf
 learning_resource_types:
