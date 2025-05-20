@@ -2,7 +2,7 @@
 content_type: resource
 description: Chapter excerpted from the course notes on bending of light by gravity,
   finding parameters, dimensionless groups, and Buckingham's pi theorem.
-file: /ol-ocw-studio-app/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/293ae4904ca7e19c8f0a38d759938cc3_apr09.pdf
+file: /courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/293ae4904ca7e19c8f0a38d759938cc3_apr09.pdf
 file_size: 281224
 file_type: application/pdf
 learning_resource_types:

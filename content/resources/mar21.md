@@ -2,7 +2,7 @@
 content_type: resource
 description: Chapter excerpted from the course notes on algebraic symmetry, dimensions,
   and the power of multinationals.
-file: /ol-ocw-studio-app/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/9e1ac5beb83d8d3c36c36aad3ec28a50_mar21.pdf
+file: /courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/9e1ac5beb83d8d3c36c36aad3ec28a50_mar21.pdf
 file_size: 190809
 file_type: application/pdf
 learning_resource_types:
