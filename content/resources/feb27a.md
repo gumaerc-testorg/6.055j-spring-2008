@@ -2,7 +2,7 @@
 content_type: resource
 description: Chapter excerpted from the course notes on dimensions and the power of
   multinationals.
-file: /courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/d95ade21fff0cd2412dc23acfe59db55_feb27a.pdf
+file: /ol-ocw-studio-app/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/d95ade21fff0cd2412dc23acfe59db55_feb27a.pdf
 file_size: 190808
 file_type: application/pdf
 learning_resource_types:
