@@ -2,7 +2,7 @@
 content_type: resource
 description: Chapter excerpted from the course notes on dimensions, physical interpretation,
   and bending of light by gravity
-file: /courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/1c73405ac74e8567d4211ee2e93ef348_apr04b.pdf
+file: /ol-ocw-studio-app/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/1c73405ac74e8567d4211ee2e93ef348_apr04b.pdf
 file_size: 364948
 file_type: application/pdf
 learning_resource_types:

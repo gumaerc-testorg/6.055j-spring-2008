@@ -2,7 +2,7 @@
 content_type: resource
 description: Chapter excerpted from the course notes on divide-and-conquer estimation,
   tree representations, and oil imports.
-file: /courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/b571166787221faf362ddd1a3b5f8e9e_feb08a.pdf
+file: /ol-ocw-studio-app/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/b571166787221faf362ddd1a3b5f8e9e_feb08a.pdf
 file_size: 255539
 file_type: application/pdf
 learning_resource_types:
