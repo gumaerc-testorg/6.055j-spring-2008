@@ -31,4 +31,4 @@ West, Geoffrey B., James H. Brown, and Brian J. Enquist. "The Fourth Dimension o
 Interesting comic strips
 ------------------------
 
-[Dangers of the resistive grid](http://xkcd.com/356/) (See also Problem 6 in Homework 4 of {{% resource_link 2afcfea1-a711-32da-b776-54e025224ccc "assignments" %}}.)
+{{% resource_link "29383c21-e08d-4d30-b01a-3afecab113f0" "Dangers of the resistive grid" %}} (See also Problem 6 in Homework 4 of {{% resource_link 2afcfea1-a711-32da-b776-54e025224ccc "assignments" %}}.)
